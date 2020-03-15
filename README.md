@@ -1,8 +1,14 @@
-# ShmupPICO-8
-This is just a test of a shoot'em up on LUA, using PICO-8.
+# ShmupPICO-8 🚀
 
-You can play it here: https://bolognini.github.io/ShmupPICO-8/
+Simple endless shoot'em up game<br/>
+You can play it by clicking on the cartridge below
 
-Here's the cartridge
+## Built With
 
-![](shmup.p8.png)
+* [PICO-8](https://www.lexaloffle.com/pico-8.php) - PICO-8 Fantasy Console
+* [LUA](https://www.lua.org/) - LUA programming language
+* [ztiromoritz](https://ztiromoritz.github.io/pico-8-shooter/) - @ztiromoritz tutorial
+
+<div align="right">
+  <a href="https://bolognini.github.io/ShmupPICO-8/"><img src="shmup.p8.png" alt="Shmup Game"></a>
+</div>
