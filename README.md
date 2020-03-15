@@ -10,5 +10,5 @@ You can play it by clicking on the cartridge below
 * [ztiromoritz](https://ztiromoritz.github.io/pico-8-shooter/) - @ztiromoritz tutorial
 
 <div align="right">
-  <a href="https://bolognini.github.io/ShmupPICO-8/"><img src="shmup.p8.png" alt="Shmup Game"></a>
+  <a href="https://bolognini.github.io/ShmupPICO-8/" target="_blank"><img src="shmup.p8.png" alt="Shmup Game"></a>
 </div>
